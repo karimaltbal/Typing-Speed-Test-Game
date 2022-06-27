@@ -19,7 +19,7 @@ Here is a working live demo :  https://karimaltbal.github.io/Typing-Speed-Test-G
 
 ## Site
 
-![Uploading screencapture-karimaltbal-github-io-Typing-Speed-Test-Game-2022-06-27-15_12_07.png…]()
+![screencapture-karimaltbal-github-io-Typing-Speed-Test-Game-2022-06-27-15_12_07](https://user-images.githubusercontent.com/67224257/175949982-2b7312b1-0359-424c-8744-e72c452bd54b.png)
 
 
 ## Built with 
